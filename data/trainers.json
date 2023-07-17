@@ -1,0 +1,22 @@
+{
+    "09074": {
+        "idTrainer": "09074",
+        "nombreTrainer": "JOHLVER",
+        "emailPersonal": "JJ@CAMPUS.COM",
+        "emailCorporativo": "JLVR@CAMPUS.COM",
+        "celularPersonal": 3178871459,
+        "telefonoFijo": 6076314523,
+        "telefonoCorporativo": 6076312596,
+        "celularEmpresarial": 3215698796
+    },
+    "01612": {
+        "idTrainer": "01612",
+        "nombreTrainer": "MIGUEL",
+        "emailPersonal": "MIGUE@GMAIL.COM",
+        "emailCorporativo": "MIGUE@CAMPUS.COM",
+        "celularPersonal": 3178895632,
+        "telefonoFijo": 6076534362,
+        "telefonoCorporativo": 6076363636,
+        "celularEmpresarial": 315642973
+    }
+}

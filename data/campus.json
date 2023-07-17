@@ -1,0 +1,65 @@
+{
+    "areas": {
+        "09211": {
+            "idArea": "09211",
+            "nombreArea": "AREA TRAINING"
+        },
+        "08467": {
+            "idArea": "08467",
+            "nombreArea": "AREA REVIEW 2"
+        },
+        "05634": {
+            "idArea": "05634",
+            "nombreArea": "AREA REVIEW 3"
+        }
+    },
+    "salones": {
+        "00501": {
+            "idSalon": "00501",
+            "nombreSalon": "ARTEMIS"
+        },
+        "01754": {
+            "idSalon": "01754",
+            "nombreSalon": "APOLO"
+        },
+        "05677": {
+            "idSalon": "05677",
+            "nombreSalon": "HOUSTON"
+        }
+    },
+    "equipos": {
+        "03376": {
+            "idEquipo": "03376",
+            "cantEquipos": 35,
+            "hardware": [
+                "TECLADO",
+                "MONITOR",
+                "MOUSE",
+                "CPU",
+                "DIADEMA"
+            ]
+        },
+        "02514": {
+            "idEquipo": "02514",
+            "cantEquipos": 40,
+            "hardware": [
+                "TECLADO",
+                "MONITOR",
+                "MOUSE",
+                "CPU",
+                "DIADEMA"
+            ]
+        },
+        "05248": {
+            "idEquipo": "05248",
+            "cantEquipos": 45,
+            "hardware": [
+                "TECLADO",
+                "MONITOR",
+                "MOUSE",
+                "CPU",
+                "DIADEMA"
+            ]
+        }
+    }
+}

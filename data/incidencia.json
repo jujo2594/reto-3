@@ -1,0 +1,20 @@
+{
+    "07964": {
+        "idIncidente": "07964",
+        "tipoIncidente": "DA\u00d1O TECLADO",
+        "descripcion": "NO SIRVEN TECLAS",
+        "fecha": "16/07/2023",
+        "categoria": "HARDWARE",
+        "areaIncidencia": "AREA TRAINING",
+        "salonIncidencia": "ARTEMIS"
+    },
+    "06506": {
+        "idIncidente": "06506",
+        "tipoIncidente": "VSCODE",
+        "descripcion": "NO ABRE VSCODE",
+        "fecha": "16/07/2023",
+        "categoria": "SOFTWARE",
+        "areaIncidencia": "AREA REVIEW 2",
+        "salonIncidencia": "APOLO"
+    }
+}
